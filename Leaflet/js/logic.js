@@ -38,7 +38,8 @@ function createMap(earthquakes, circles) {
   // Inserts a div with the class of "legend"
   legend.onAdd = function() {
     var div = L.DomUtil.create("div", "legend");
-    div.innerHTML = '<i style="background:#FEF0D9"></i>0-1<br>' + 
+    div.innerHTML = '<p>Magnitude</p>' +
+    '<i style="background:#FEF0D9"></i>0-1<br>' + 
     '<i style="background:#FDD49E"></i>1-2<br>' +
     '<i style="background:#FDBB84"></i>2-3<br>' +
     '<i style="background:#FC8D59"></i>3-4<br>' +
