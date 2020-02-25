@@ -6,7 +6,7 @@ This project uses a GeoJSON data feed from the United States Geological Survey (
 
 This project uses the Leaflet and D3 Javascript libraries.
 
-![alt-text](https://raw.githubusercontent.com/jonathanpiech/usgs-earthquakes/master/earthquakes1.png "Image of project")
+![alt-text](https://raw.githubusercontent.com/jonathanpiech/usgs-earthquakes/master/earthquakes1.png "Image of app on startup")
 
 ## Requirements
 Create a "config.js" file in the js folder with your Mapbox API key with variable API_KEY to see the map.
