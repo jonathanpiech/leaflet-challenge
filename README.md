@@ -12,4 +12,5 @@ This project uses the Leaflet and D3 Javascript libraries.
 
 
 ## Requirements
-Create a "config.js" file in the js folder with your Mapbox API key with variable API_KEY to see the map.
+This project requires a Mapbox API key to run. If you want to run yourself, download the repository and create a "config.js" file in the js folder with your Mapbox API key with variable API_KEY to see the map.
+`const API_KEY = "Your API Key";`
